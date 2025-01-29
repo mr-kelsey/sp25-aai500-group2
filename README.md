@@ -17,7 +17,7 @@ impacts. Mention the needs/applications of your project clearly. Limit to one/tw
 paragraph(s).
 
 Partner(s)/Contributor(s)
-* Michael Rinaldi Domingo
+* Michael Domingo
 * domingos_github_url
 * Puja Nandini
 * nandinis_github_url
