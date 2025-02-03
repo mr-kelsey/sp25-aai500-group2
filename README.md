@@ -20,7 +20,7 @@ Partner(s)/Contributor(s)
 * Michael Rinaldi Domingo
 * domingos_github_url
 * Puja Nandini
-* nandinis_github_url
+* https://github.com/pnandini-sdu
 * Mr. Kelsey
 * https://github.com/mr-kelsey
 
