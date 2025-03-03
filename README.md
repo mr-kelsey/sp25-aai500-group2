@@ -5,7 +5,7 @@ University of San Diego (USD).
 #  International Football Statistics From 1872 to Present
 Scenario: we are a consulting firm hired by a new premier club football team.  They want us to analyse historical data dating back to 1872 to see if we can determine what makes a winning team.  We will look at the data available and find correlation between various aspects of the data.  We will create a prediction model that can predict wins and present it to the club owner as proof of our statistical super-powers.  Should our model fail to accurately predict winners, we will need to include why we think it failed to make accurate predictions and what we could do to get the project back on track if they gave us another chance.
 
--- Project Status: [Planning, **Active**, On-hold, Completed]
+-- Project Status: [Planning, Active, On-hold, **Completed**]
 
 Installation
 You should add an instruction how this project to be used, installed, run, edited in others’ machine.
